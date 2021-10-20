@@ -7,7 +7,7 @@ Bellow are the weekly Andoird tasks set for COMP 2000. They are in chronological
 
 ### Week 3:
 
-- [In Progress](https://github.com/Dodecahedrane/COMP-2000-Java-Android-Tasks/tree/main/Week_3)
+#### [Completed](https://github.com/Dodecahedrane/COMP-2000-Java-Android-Tasks/tree/main/Week_3)
 - Build a layout for the following user interface:
 
 ![login page ui](https://i.imgur.com/U6GbQ89.jpg)
